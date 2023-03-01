@@ -9,7 +9,8 @@ Hi, I am Ilyes SELLAM, a BackEnd and Cloud Developer with 3 years of experience 
 *   🌍  I'm based in Setif, Algeria.
 *   ✉️  You can contact me at [ilyessellam04@gmail.com](mailto:ilyessellam04@gmail.com)
 *   🧠  I'm learning FastAPI web framework for building APIs with Python
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+*   🤝  I'm open to collaborating on interesting projects
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
