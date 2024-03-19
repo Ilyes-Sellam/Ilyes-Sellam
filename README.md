@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BackEnd and Cloud Developer
 ---------------------------
 
-Hi, I am Ilyes SELLAM, a BackEnd and Cloud Developer with 3 years of experience in Web development. I am a highly motivated individual with a passion for Cloud development and DevOps. I am a quick learner and thrive in a fast-paced environment. I am constantly seeking new challenges and opportunities to improve my skills and contribute to the growth of the organization. I am eager to bring my skills, experience, and passion to a new role where I can make a positive impact.
+Hi, I am Ilyes SELLAM, a BackEnd and Cloud Developer with 6 years of experience in Web development. I am a highly motivated individual with a passion for Cloud development and DevOps. I am a quick learner and thrive in a fast-paced environment. I am constantly seeking new challenges and opportunities to improve my skills and contribute to the growth of the organization. I am eager to bring my skills, experience, and passion to a new role where I can make a positive impact.
 
-*   🌍  I'm based in Setif, Algeria.
+*   🌍  I'm based in Paris, France.
 *   ✉️  You can contact me at [ilyessellam04@gmail.com](mailto:ilyessellam04@gmail.com)
-*   🧠  I'm learning FastAPI web framework for building APIs with Python
 *   🤝  I'm open to collaborating on interesting projects
 ### Skills 
 <p align="left">
